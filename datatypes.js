@@ -1,0 +1,10 @@
+"use strict";
+let fname;
+fname = "Naani";
+let newname = fname.toUpperCase();
+console.log(newname);
+let age;
+age = 28;
+let isValid;
+isValid = true;
+console.log(isValid);
